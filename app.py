@@ -251,7 +251,7 @@ with st.sidebar:
         <p style="font-family:'Manrope',sans-serif;font-size:13px;color:#818DA0;line-height:1.8;margin-bottom:0;">Parses your resume PDF, detects technical skills, scores against ATS criteria, and matches you to relevant job roles.</p>
         <div style="border-top:1px solid rgba(255,255,255,0.07);padding-top:18px;margin-top:20px;margin-bottom:18px;">
             <div style="font-size:10px;letter-spacing:0.13em;text-transform:uppercase;color:#3A3F4E;margin-bottom:7px;font-family:'Manrope',sans-serif;">Developed by</div>
-            <div style="font-family:'Syne',sans-serif;font-size:14px;font-weight:600;color:#ECE9E2;">Shreeji Tiwari</div>
+            <div style="font-family:'Syne',sans-serif;font-size:14px;font-weight:600;color:#ECE9E2;">Mohit Singh</div>
         </div>
     </div>
     """)
